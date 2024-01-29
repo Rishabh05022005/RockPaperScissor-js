@@ -1,4 +1,4 @@
-let UserInput = prompt("Enter R, P, or S");
+let UserInput = prompt('Enter R, P, or S');
 let SystemInput = Math.floor(Math.random() * 3);
 
 let SystemInput_array = ["S", "P", "R"]; // Corrected the array
